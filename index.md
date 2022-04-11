@@ -5,7 +5,7 @@ title: Analysis of Economic Data
 
 ##  Projects
 <a> 
-<img src="zmorb.jpg" alt="picture" width="250"/>
+<img src="zmorb.jpg" alt="picture" height="375" width="250"/>
 </a>
 
 ## Contact Information 
@@ -15,5 +15,5 @@ Department of Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:zdm13@my.fsu.edu](mailto:zdm13@my.fsu.edu)
+[Email: zdm13@my.fsu.edu](mailto:zdm13@my.fsu.edu)
 
